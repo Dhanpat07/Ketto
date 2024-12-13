@@ -27,7 +27,7 @@ Ketto AI Chatbot is a Streamlit-based conversational AI application designed to 
 ├── response_generator.py    # Generates responses using the Falcon model and context
 ├── retrieval.py             # Retrieves relevant documents using cosine similarity
 ├── requirements.txt         # List of dependencies for the project
-├── data/
+├── data/raw
 │   ├── raw_data.json        # Raw data for creating Q&A format
 │   ├── questions.json       # Structured Q&A data
 │   └── embeddings.pkl       # Precomputed embeddings for questions
@@ -39,8 +39,8 @@ Ketto AI Chatbot is a Streamlit-based conversational AI application designed to 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/ketto-ai-chatbot.git
-   cd ketto-ai-chatbot
+   git clone https://github.com/Dhanpat07/Ketto
+   cd Ketto
    ```
 
 2. **Install Dependencies**:
@@ -131,11 +131,7 @@ Ketto AI Chatbot is a Streamlit-based conversational AI application designed to 
 - **Real-Time Updates**: Integrate live data sources for dynamic responses.
 - **Voice Interaction**: Add speech-to-text and text-to-speech capabilities.
 
----
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
@@ -143,7 +139,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For inquiries or collaboration:
 
-- **Name**: Dhanpat
-- **Email**: dhanpat@example.com
+- **Name**: Dhanpat Singh Meena
+- **Email**: dhanpat.dm001@gmail.com
 
 Happy Coding! 🚀
